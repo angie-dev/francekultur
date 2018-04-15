@@ -1,0 +1,7 @@
+*.mp3
+venv/
+env/
+dist/
+prod/
+*.log
+*.tmp
