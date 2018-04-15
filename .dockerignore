@@ -1,0 +1,8 @@
+Dockerfile
+COPYING
+README.md
+tests
+.git
+.gitignore
+*.mp4
+*.m3u8
